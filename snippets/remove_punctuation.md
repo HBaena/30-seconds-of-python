@@ -15,4 +15,4 @@ print(remove_punctuation('Hi, my name is Adan and I am 21 years old.'))
 # Output: Hi my name is Adan and I am 21 years old
 ```
 
-This is useful for text cleaning and data cleaning.
+This is useful for text cleaning.
